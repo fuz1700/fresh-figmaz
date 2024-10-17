@@ -1,0 +1,76 @@
+.card{
+    text-align: center;
+    border: none !important;
+   display: flex;
+   gap: 30px;
+   margin-top:10px;
+}
+ .plant{
+    color: rgb(11, 160, 11);
+}
+.ali{
+    background-color: #067A46;
+    color:  #F8F8F8;
+    
+}
+.s1-main {
+     display: flex;
+    gap: 200px;
+}
+.start{
+   text-align: center;
+   h1{
+    margin-top: 3%;
+   }
+   p{
+    margin-top: 1%;
+   }
+}
+.carousel-inner-2{
+    width: 1300px;
+    height: 362px;
+   
+}
+main{
+    background-color:  #F8F8F8;
+    
+}
+
+.bg img{
+    width: 100%;
+}
+.bt{
+    margin-top: 10%;
+    border: none;
+}
+.start-2{
+    text-align: center;
+    margin-bottom: 5%;
+}
+.item{
+h1{
+    font-size: 16px;
+    font-weight: 600;
+}
+p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #067A46;
+}
+}
+.f-main{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    gap: 40px;
+ }
+ 
+ .m-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ }
+
+ .ptem{
+    display: flex;
+    gap: 40px;
+ }
